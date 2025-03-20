@@ -1,2 +1,2 @@
 # Claude
-Orginize
+Organize
